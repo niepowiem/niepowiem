@@ -8,7 +8,7 @@ I recreate complex AI systems and tools from scratch, explaining them as I go on
 
 🇺🇸 Channel: https://www.youtube.com/@BartoszZielinskiENG
 
-## 🗃️ Projects that I'm Proud of
+## 🗃️ Projects I'm Working On
 <table width="100%">
   <tr>
     <td>
