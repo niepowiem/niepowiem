@@ -44,6 +44,12 @@ I recreate complex AI systems and tools from scratch, explaining them as I go on
       </a>
     </td> 
     <td width="25%" align="left" valign="top" style="border: none;">
+      <a href="https://www.youtube.com/watch?v=dlYPm2o9QUY" style="text-decoration: none;">
+        <img src="https://img.youtube.com/vi/dlYPm2o9QUY/maxresdefault.jpg" width="100%">
+        <br />
+        <span style="color: #c9d1d9; font-weight: bold; text-decoration: none; display: block;">
+AI od Podstaw: Zbuduj swoją pierwszą sieć neuronową w Pythonie! (E03) - Funkcje Straty</span>
+      </a>
     </td>    
     <td width="25%" align="left" valign="top" style="border: none;">
     </td>    
