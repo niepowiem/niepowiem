@@ -52,6 +52,11 @@ AI od Podstaw: Zbuduj swoją pierwszą sieć neuronową w Pythonie! (E03) - Funk
       </a>
     </td>    
     <td width="25%" align="left" valign="top" style="border: none;">
-    </td>    
+      <a href="https://www.youtube.com/watch?v=ApjjsE58msY" style="text-decoration: none;">
+        <img src="https://img.youtube.com/vi/ApjjsE58msY/maxresdefault.jpg" width="100%">
+        <br />
+        <span style="color: #c9d1d9; font-weight: bold; text-decoration: none; display: block;">AI od Podstaw: Zbuduj swoją pierwszą sieć neuronową w Pythonie! (E02) - Funkcje Aktywacji</span>
+      </a>
+    </td> 
   </tr>
 </table>
