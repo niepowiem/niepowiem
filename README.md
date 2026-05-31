@@ -13,7 +13,7 @@ I recreate complex AI systems and tools from scratch, explaining them as I go on
   <tr>
     <td>
       <!-- Tytuł: kolor #0969da to ten klasyczny niebieski z Twojego screena -->
-      <a href="LINK_DO_PROJEKTU" style="text-decoration: none; color: #0969da;">
+      <a href="https://github.com/niepowiem/EasyNeurons" style="text-decoration: none; color: #0969da;">
         EasyNeurons
       </a>    
       <!-- "Enter" czyli odstęp między tytułem a opisem -->
