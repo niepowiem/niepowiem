@@ -9,22 +9,48 @@ I recreate complex AI systems and tools from scratch, explaining them as I go on
 🇺🇸 Channel: https://www.youtube.com/@BartoszZielinskiENG
 
 ## 🗃️ Projects I'm Working On
-<table width="100%">
-  <tr>
-    <td>
-      <!-- Tytuł: kolor #0969da to ten klasyczny niebieski z Twojego screena -->
-      <a href="https://github.com/niepowiem/EasyNeurons" style="text-decoration: none; color: #0969da;">
-        EasyNeurons
-      </a>    
-      <!-- "Enter" czyli odstęp między tytułem a opisem -->
-      <br /> 
-      <!-- Opis: szary kolor #57606a -->
-      <span style="color: #57606a;">
-        Basically a PyTorch made from scratch in Python
-      </span>
-    </td>
-  </tr>
-</table>
+
+<table width="100%"><tbody><tr>
+
+<!-- ================= PROJEKT 1 ================= -->
+<td align="center" width="15%">
+
+<a href="https://github.com/niepowiem/EasyNeurons">
+  <img alt="EasyNeurons" src="TUTAJ_WKLEJ_LINK_DO_ZDJECIA_1.png" width="120">
+</a>
+
+</td>
+<td align="left" width="35%">
+
+### EasyNeurons <img align="right" src="https://img.shields.io/github/stars/niepowiem/EasyNeurons?style=flat-square&color=gold">
+
+Basically a PyTorch made from scratch in Python.
+
+[Repo](https://github.com/niepowiem/EasyNeurons)
+<br><br>
+
+</td>
+
+<!-- ================= PROJEKT 2 ================= -->
+<td align="center" width="15%">
+
+<a href="[LINK_DO_PROJEKTU_2](https://github.com/niepowiem/lumi-python)">
+  <img alt="Lumi" src="TUTAJ_WKLEJ_LINK_DO_ZDJECIA_2.png" width="120">
+</a>
+TBA
+</td>
+<td align="left" width="35%">
+
+### Drugi Projekt <img align="right" src="https://img.shields.io/github/stars/niepowiem/lumi-python?style=flat-square&color=gold">
+
+TBA
+
+[Repo](LINK_DO_PROJEKTU_2)
+<br><br>
+
+</td>
+
+</tr></tbody></table>
 
 ## 🎬 Latest Youtube Videos
 <table align="center" style="border: none; border-collapse: collapse;">
